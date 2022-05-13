@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "streaming ",
+      "description": "great streaming on vedio",
+      "id": 2
+    }
+  ]
+}
